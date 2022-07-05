@@ -1,0 +1,9 @@
+# basic options
+title: srushti c
+author: srushti c
+email: 24srush@gmail.com
+description: a wonderful site
+
+# build settings
+markdown: kramdown
+theme: minima
